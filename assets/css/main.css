@@ -167,6 +167,7 @@ input, select, textarea {
 	}
 
 	h1 {
+		font-family: 'Muli', sans-serif;
 		font-size: 2.75em;
 		font-weight: 700;
 		line-height: 1.3;
@@ -196,11 +197,12 @@ input, select, textarea {
 		}
 
 	h2, h3, h4, h5, h6 {
+		font-family: 'Muli', sans-serif;
 		font-weight: 900;
 		line-height: 1.5;
 		margin: 0 0 2em 0;
 		text-transform: uppercase;
-		letter-spacing: 0.35em;
+		letter-spacing: 0.15em;
 	}
 
 		h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2509,6 +2511,7 @@ input, select, textarea {
 			box-shadow: none;
 			background-color: #585858;
 			color: #ffffff !important;
+			font-family: 'Muli', sans-serif;
 		}
 
 			input[type="submit"].primary:hover,
@@ -2517,6 +2520,7 @@ input, select, textarea {
 			button.primary:hover,
 			.button.primary:hover {
 				background-color: #f2849e;
+				font-family: 'Muli', sans-serif;
 			}
 
 			input[type="submit"].primary:active,
@@ -2525,6 +2529,7 @@ input, select, textarea {
 			button.primary:active,
 			.button.primary:active {
 				background-color: #ee5f81;
+				font-family: 'Muli', sans-serif;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
